@@ -1,0 +1,104 @@
+#header {
+    background-color: #184D47;
+}
+.container {
+    width: 1160px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #fff;
+}
+.header-flex {
+    margin-top: 20px;
+    display: flex;
+}
+.header-midd {
+    display: flex;
+    margin-top: 45px;
+    margin-right: 70px;
+}
+.header-right {
+    display: flex;
+    margin-top: 45px;
+    margin-right: 35px;
+}
+.nav-home {
+   margin-right: 50px;
+}
+.nav-about {
+   margin-right:50px;
+}
+.nav-features {
+   margin-right: 50px;
+}
+.nav-destinations {
+   margin-right: 50px;
+}
+
+.nav-letter{
+    color: white;
+    text-decoration: none;
+}
+.nav-login {
+
+}
+.nav-register{
+    margin-left: 32px;
+    border-radius: 10px;
+    background-color: #F58634;
+    padding: 17px 35px
+}
+.bar{
+    font-size: 64px;
+    color: #FFFFFF;
+    margin-top: 105px;
+}
+.bar-below {
+    font-size: 16px;
+    color: #D8D8D8;
+    margin-top: 15px;
+}
+.rectangle1 {
+    height: 396px; 
+    width: 266px; 
+    margin-top: 160px; 
+    margin-right: 22px;
+    border-radius: 7px;
+    background-color: #C4C4C4;
+    margin-left: 90px;
+}
+.rectangle2 {
+    height: 313px; 
+    width: 266px; 
+    margin-top: 44px; 
+    margin-right: 24px;
+    border-radius: 7px;
+    background-color: #C4C4C4;
+}
+.rectangle3 {
+    height: 313px; 
+    width: 266px; 
+    margin-top: 29px; 
+    margin-right: 24px;
+    border-radius: 7px;
+    background-color: #C4C4C4;
+}
+.nav-explore {
+    border-radius: 10px;
+    background-color: #F58634;
+    padding: 17px 35px;
+    color:#FFFFFF;
+    text-decoration: none;
+}
+.search {
+    position: absolute;
+    padding-top: -29px;
+    margin-top: -30px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 11px 105px;
+    border: 1px solid #FFFFFF;
+    border: 1px solid rgba(0,0,0,.125);
+}
